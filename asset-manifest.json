@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.239d4b03.chunk.css",
+    "main.js": "/static/js/main.6b79c3f2.chunk.js",
+    "main.js.map": "/static/js/main.6b79c3f2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.890c7f03.js",
+    "runtime-main.js.map": "/static/js/runtime-main.890c7f03.js.map",
+    "static/css/2.29986bba.chunk.css": "/static/css/2.29986bba.chunk.css",
+    "static/js/2.aeaa998b.chunk.js": "/static/js/2.aeaa998b.chunk.js",
+    "static/js/2.aeaa998b.chunk.js.map": "/static/js/2.aeaa998b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.29986bba.chunk.css.map": "/static/css/2.29986bba.chunk.css.map",
+    "static/css/main.239d4b03.chunk.css.map": "/static/css/main.239d4b03.chunk.css.map",
+    "static/js/2.aeaa998b.chunk.js.LICENSE.txt": "/static/js/2.aeaa998b.chunk.js.LICENSE.txt",
+    "static/media/TMDB.d87262f7.svg": "/static/media/TMDB.d87262f7.svg",
+    "static/media/boxicons.min.css": "/static/media/boxicons.e63992ad.svg",
+    "static/media/footer-bg.ef67846b.jpg": "/static/media/footer-bg.ef67846b.jpg",
+    "static/media/tmovie.6cdd7ab4.png": "/static/media/tmovie.6cdd7ab4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.890c7f03.js",
+    "static/css/2.29986bba.chunk.css",
+    "static/js/2.aeaa998b.chunk.js",
+    "static/css/main.239d4b03.chunk.css",
+    "static/js/main.6b79c3f2.chunk.js"
+  ]
+}
